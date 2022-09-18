@@ -24,3 +24,6 @@ jobs:
           plugin_isocalendar: no
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
+
+          plugin_activity: yes
+          plugin_activity_limit: 3
