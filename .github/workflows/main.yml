@@ -27,3 +27,6 @@ jobs:
 
           plugin_activity: yes
           plugin_activity_limit: 3
+
+          plugin_stars: yes
+          plugin_stars_limit: 1
