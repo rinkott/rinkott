@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 ## Hi there 👋
 > I'm Alex, a self-taught Web Developer. I love integrating and designing UI for personal, commercial and community projects.
 
