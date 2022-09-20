@@ -7,10 +7,15 @@
 
 ### Examples of my work
 > - **Commercial:**
->   - [Website for CIS Esports FACEIT League](https://cisesports.com)
->       - Tech used: **Vue 2 (Composition API module)**, **Nuxt 2**, **SCSS**, **REST/Apollo GraphQL**, **MariaDB/PostgreSQL**
->   - [Website for Natus Vincere's FACEIT League](https://hub.navi.gg)
->       - Tech used: **Vue 2, 3**, **Nuxt Bridge**, **PostCSS**, **Apollo GraphQL**, **PostgreSQL**
+>
+>   <img src="./assets/cis-shield.png" alt="CIS Esports" height="14"/> [CIS Esports FACEIT League](https://cisesports.com)
+>
+>   - Tech used: **Vue 2 (Composition API module)**, **Nuxt 2**, **SCSS**, **REST/Apollo GraphQL**, **MariaDB/PostgreSQL**
+>
+>   <img src="./assets/navi-flat.svg" alt="NAVINATION Hub" width="80"/> [Natus Vincere's FACEIT League](https://hub.navi.gg)
+>
+>   - Tech used: **Vue 2, 3**, **Nuxt Bridge**, **PostCSS**, **Apollo GraphQL**, **PostgreSQL**
+
 > - Non-Commercial:
 >   - **WIP** [Overlay and admin panel for Triple Rumble Royale Beat Saber tournaments](https://discord.gg/9fcutjAggV 
 )
