@@ -21,4 +21,5 @@
 
 ### Chore
 > [GitLab profile](https://gitlab.com/flameflick)
+
 > [Contact me on Telegram](https://t.me/flameflick)
