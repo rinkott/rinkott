@@ -73,14 +73,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">flameflick/supa-tournaments-fracture-overlay</span>
+                                        <span class="repo">flameflick/flameflick</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#931b29e</div>
-                                        <div class="message">WIP: dynamic song card</div>
+                                        <div class="sha">#cbc65f2</div>
+                                        <div class="message">feat: add blockczech logo</div>
                                     </div>
                                 </div>
                             </section>
