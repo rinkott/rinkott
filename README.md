@@ -8,16 +8,20 @@
 ### Examples of my work
 > - **Commercial:**
 >
->   <img src="./assets/cis-shield.png" alt="CIS Esports" height="14"/> [CIS Esports FACEIT League](https://cisesports.com)
+>   <img src="./assets/cis-shield.png" alt="CIS Esports" height="14"/>&nbsp;&nbsp;&nbsp;[CIS Esports FACEIT League](https://cisesports.com)
 >
 >   - Tech used: **Vue 2 (Composition API module)**, **Nuxt 2**, **SCSS**, **REST/Apollo GraphQL**, **MariaDB/PostgreSQL**
 >
->   <img src="./assets/navi-flat.svg" alt="NAVINATION Hub" width="80"/> [Natus Vincere's FACEIT League](https://hub.navi.gg)
+>   <img src="./assets/navi-flat.svg" alt="NAVINATION Hub" width="80"/>&nbsp;&nbsp;&nbsp;[Natus Vincere's FACEIT League](https://hub.navi.gg)
 >
->   - Tech used: **Vue 2, 3**, **Nuxt Bridge**, **PostCSS**, **Apollo GraphQL**, **PostgreSQL**
+>   - Tech stack: **Vue 2, 3**, **Nuxt Bridge**, **PostCSS**, **Apollo GraphQL**, **PostgreSQL**
+>
+>   <img src="./assets/blockczech.png" alt="Blockczech" width="50"/>&nbsp;&nbsp;&nbsp;[BlockCzech](https://blockczech.io/)
+>
+>   - Tech stack: **Vue 2, 3; React 18**, **Nuxt; Next.js**, **PostCSS**, **Ethers.js**, **WalletConnect**, **Web3 Contract Integrations**
 
 > - Non-Commercial:
->   - **WIP** [Overlay and admin panel for Triple Rumble Royale Beat Saber tournaments](https://discord.gg/9fcutjAggV 
+>   - **WIP** [Overlay and admin tools for Triple Rumble Royale Beat Saber tournaments](https://discord.gg/9fcutjAggV 
 )
 >       - Tech used: **Vue 3**, **Vite**, **WebSockets**
 > - Small personal projects: 
@@ -27,4 +31,4 @@
 ### Chore
 > [GitLab profile](https://gitlab.com/flameflick)
 
-> [Contact me on Telegram](https://t.me/flameflick)
+> [Contact me via mail](mailto:flameflick@pm.me)
