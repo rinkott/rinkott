@@ -1,7 +1,7 @@
 ![Metrics](/github-metrics.svg)
 
-## Hi there 👋
-> I'm Alex, a self-taught Web Developer. I love integrating and designing UI for personal, commercial and community projects.
+## ✨ Hi there 
+> I'm a self-taught developer.
 
 > I mainly work with Vue and React ecosystems for frontend applications, while doing some backend tweaks on the side. I also do some infrastructure and DevOps work for my projects, using tools like Docker for orchestration.
 
@@ -21,9 +21,8 @@
 >   - Tech stack: **Vue 2, 3; React 18**, **Nuxt; Next.js**, **PostCSS**, **Ethers.js**, **WalletConnect**, **Web3 Contract Integrations**
 
 > - Non-Commercial:
->   - **WIP** [Overlay and admin tools for Triple Rumble Royale Beat Saber tournaments](https://discord.gg/9fcutjAggV 
+>   - [Overlay and admin tools for Triple Rumble Royale Beat Saber tournaments](https://discord.gg/9fcutjAggV 
 )
->       - Tech used: **Vue 3**, **Vite**, **WebSockets**
 > - Small personal projects: 
 >   - [ScoreSaber Tweaks UserScript](https://gitlab.com/flameflick/scoresaber-tweaks)
 >   - [BSWC Observer Discord Bot](https://gitlab.com/flameflick/bswc-observer)
