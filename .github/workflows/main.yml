@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_SECRET }}
 
           # Options
-          user: flameflick
+          user: rinkott
           template: classic
           base: header
           config_timezone: Asia/Almaty
