@@ -30,4 +30,4 @@
 ### Chore
 > [GitLab profile](https://gitlab.com/flameflick)
 
-> [Contact me via mail](mailto:flameflick@pm.me)
+> [Contact me via mail](mailto:rin@horny.cat)
